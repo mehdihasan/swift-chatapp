@@ -1,0 +1,27 @@
+<!-- Please visit this link to get the info-plist file:  -->
+<!-- https://bitbucket.org/mehdihasan/chatapp/src/2e7f672b671c9e28db02e8db0b304823119ee88e/GoogleService-Info.plist?at=master&fileviewer=file-view-default -->
+<!-- If you are nit Mehdi Hasan, then please register a new firebase app and use the infoplist file here. -->
+<!-- TODO: -->
+<!-- 
+ First, go to firebase.google.com and sign up for a free account(https://firebase.google.com/). Then, log into your new account and go to your Firebase Dashboard(https://console.firebase.google.com/).
+ Next, click Add Project. In the dialogs that appear, choose the following settings:
+ Project Name: ChatApp
+ Country/Region: Choose your country or region
+ Finally, click Create Project. Then, in the screen that appears, choose Add Firebase to your iOS app.
+ 
+ Another dialog appears. Choose the following settings:
+ 
+ iOS Bundle ID: Input your app’s Bundle ID. You choose that when creating the Xcode project. It’s something like: com.learnappmaking.Chat.
+ App Nickname: Anything, something like “Chat App”
+ Finally, click Register App. In the next screen that appears, click the big Download GoogleService-Info.plist button. 
+ OK, there’s one last thing you need to set straight: permissions. Firebase has an elaborate permissions tool, with which you can use a script-like language to grant and deny access to data, files, and so on.
+ 
+ Since your chat app is going to be a public free-for-all, and because no chat user will need to log in, the permissions for the chat app are simple:
+ 
+ {
+ "rules": {
+ ".read": true,
+ ".write": true
+ }
+ }
+ -->
