@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0700"
+   LastUpgradeVersion = "1100"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -13,11 +13,11 @@
             buildForProfiling = "YES"
             buildForArchiving = "YES">
             <BuildableReference
-               BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '1ED4DFAAD25E1999D0244868457A351E'
-               BlueprintName = 'JSQSystemSoundPlayer'
-               ReferencedContainer = 'container:Pods.xcodeproj'
-               BuildableName = 'JSQSystemSoundPlayer.framework'>
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "F031F47A361F941DA886237DD931C27D"
+               BuildableName = "JSQSystemSoundPlayer.framework"
+               BlueprintName = "JSQSystemSoundPlayer"
+               ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>

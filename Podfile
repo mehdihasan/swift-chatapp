@@ -1,4 +1,4 @@
-platform :ios, '9.0'
+platform :ios, '12.0'
 
 target 'ChatApp' do
 use_frameworks!
